@@ -36,7 +36,7 @@ I am a passionate Data Engineer and IT leader specializing in designing metadata
 <div align="center">
 
 <!-- Animated header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Saptarshi;Data+Engineer+%7C+BI+Developer;Building+AI+%2B+Data+Systems;7%2B+years+in+the+trenches" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Saptarshi;Data+Engineer+%7C+BI+Developer;Building+AI+%2B+Data+Systems;15%2B+years+in+the+trenches" alt="Typing SVG" />
 
 <br/>
 
@@ -63,9 +63,9 @@ I am a passionate Data Engineer and IT leader specializing in designing metadata
 saptarshi = {
     "currently_learning": ["RAG pipelines", "LLM evaluation", "AI Engineering"],
     "building":           ["Finance AI assistant (RAG + FastAPI)", "Personal life OS"],
-    "stack":              ["Python", "SQL", "Power BI", "FastAPI", "dbt", "Azure"],
-    "domain":             ["Data Engineering", "BI", "Finance Automation"],
-    "goal":               "Turn 7 years of data work into AI-powered systems"
+    "stack":              ["Databricks", "Fabric", "Python", "SQL", "Power BI", "FastAPI", "dbt", "Azure"],
+    "domain":             ["AI", "Data", "BI", "Automation", "Project Management"],
+    "goal":               "Turn 15 years of data work into AI-powered systems"
 }
 ```
 
