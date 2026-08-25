@@ -41,7 +41,7 @@ I am a passionate Data Engineer and IT leader specializing in designing metadata
 <br/>
 
 <!-- Subtitle -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=888888&center=true&vCenter=true&width=600&lines=Australia+%F0%9F%87%A6%F0%9F%87%BA+%7C+Sydney;Finance+%2B+AI+%2B+Automation;Currently%3A+IIT+Madras+AI+Engineering+Programme" alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=888888&center=true&vCenter=true&width=600&lines=Australia+%F0%9F%87%A6%F0%9F%87%BA+%7C+Brisbane;AI+%2B+DATA+%2B+Automation;Currently%3A+IIT+Madras+AI+Engineering+Programme" alt="Subtitle" />
 
 <br/><br/>
 
