@@ -23,14 +23,14 @@ I design and build production-grade AI systems on solid data and cloud foundatio
 ![Saptarshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 
-- 🔭 I’m currently working on DP-700
-- 🌱 I’m currently enhancing my skills in AI Engineering, cloud architecture, and MLOps best practices
-- 👯 I’m looking to collaborate on AI solutions and cloud architecture initiatives
-- 🤔 I’m looking for help with optimising large-scale data systems and integrating AI with real-world applications
-- 💬 Ask me about Azure, Databricks, Purview, Power BI, solution architecture, system design, and project delivery
+- 🔭 I’m currently working on production RAG systems, LLM evaluation frameworks, Agentic AI
+- 🌱 I’m currently deepening my skills in AI Engineering, AI Architecture
+- 👯 I’m looking to collaborate on AI Engineering projects, agentic systems, and enterprise cloud architecture
+- 🤔 I’m looking for help with scaling AI systems in production and bridging data architecture with real-world AI applications
+- 💬 Ask me about AI Architecture, RAG pipelines, Azure, Databricks, Microsoft Fabric, Purview, solution architecture, and system design
 - 📫 How to reach me: https://www.linkedin.com/in/saptarshisengupta/
 - 😄 Pronouns: take a guess!!
-- ⚡ Fun fact: I prefer sunrise hikes over late-night parties.
+- ⚡ Fun fact: I prefer sunrise hikes over late-night parties
 -->
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
