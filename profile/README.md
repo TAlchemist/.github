@@ -1,6 +1,6 @@
 # Hi 👋, I'm Saptarshi Sengupta.
 
-I am a passionate Data Engineer and IT leader specializing in designing metadata-driven ingestion pipelines and robust data strategies within the Microsoft ecosystem and SAP platforms. I implement Medallion architectures, driving digital transformation through data governance and enterprise data modelling. Certified in Azure, Power BI, and PRINCE2, I am dedicated to integrating AI/ML, Large Language Models, and Generative AI to deliver innovative, data-driven solutions for strategic business outcomes.
+I design and build production-grade AI systems on solid data and cloud foundations. With 15+ years of experience, I specialise in AI Architecture, RAG pipelines, LLM evaluation, agentic systems, and scalable data platforms within the Microsoft ecosystem (Azure, Fabric, Databricks) and SAP. I implement Medallion architectures, strong data governance, and enterprise data modelling, then layer AI/ML, Large Language Models and Generative AI on top to deliver reliable, business-critical solutions.
 
 ### Languages and Tools :
 <div>
