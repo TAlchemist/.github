@@ -1,23 +1,3 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Saptarshi;AI+Architect+%7C+Data+Architect;Building+AI+%2B+Data+Systems;15%2B+years+in+the+trenches" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=888888&center=true&vCenter=true&width=600&lines=Australia+%F0%9F%87%A6%F0%9F%87%BA+%7C+Brisbane;AI+%2B+DATA+%2B+Automation;Currently%3A+IIT+Madras+AI+Engineering+Programme" alt="Subtitle" />
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saptarshi-sengupta)
-[![GitHub followers](https://img.shields.io/github/followers/TAlchemist?style=for-the-badge&color=00D9FF&labelColor=0d1117)](https://github.com/TAlchemist)
-
-</div>
-
----
-
-<div align="center">
-
-
 # Hi 👋, I'm Saptarshi Sengupta.
 
 I design and build production-grade AI systems on solid data and cloud foundations. With 15+ years of experience, I specialise in AI Architecture, RAG pipelines, LLM evaluation, agentic systems, and scalable data platforms within the Microsoft ecosystem (Azure, Fabric, Databricks) and SAP. I implement Medallion architectures, strong data governance, and enterprise data modelling, then layer AI/ML, Large Language Models and Generative AI on top to deliver reliable, business-critical solutions.
@@ -40,6 +20,7 @@ I design and build production-grade AI systems on solid data and cloud foundatio
 - **[Fabric-Medallion-Pipeline](https://github.com/yourusername/fabric-medallion-pipeline)** - End-to-end Medallion architecture with Dev/Test/Prod pipelines in Microsoft Fabric.
 - **[PowerBI-Analytics](https://github.com/yourusername/powerbi-analytics)** - Enterprise BI dashboards for real-time insights using Power BI and Azure.
 
+![Saptarshi's GitHub Stats] (https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![Saptarshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 
