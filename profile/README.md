@@ -18,12 +18,6 @@
 <div align="center">
 
 
-
-
-
-
-
-
 # Hi 👋, I'm Saptarshi Sengupta.
 
 I design and build production-grade AI systems on solid data and cloud foundations. With 15+ years of experience, I specialise in AI Architecture, RAG pipelines, LLM evaluation, agentic systems, and scalable data platforms within the Microsoft ecosystem (Azure, Fabric, Databricks) and SAP. I implement Medallion architectures, strong data governance, and enterprise data modelling, then layer AI/ML, Large Language Models and Generative AI on top to deliver reliable, business-critical solutions.
