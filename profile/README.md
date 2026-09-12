@@ -20,7 +20,7 @@ I design and build production-grade AI systems on solid data and cloud foundatio
 - **[Fabric-Medallion-Pipeline](https://github.com/yourusername/fabric-medallion-pipeline)** - End-to-end Medallion architecture with Dev/Test/Prod pipelines in Microsoft Fabric.
 - **[PowerBI-Analytics](https://github.com/yourusername/powerbi-analytics)** - Enterprise BI dashboards for real-time insights using Power BI and Azure.
 
-![Saptarshi's GitHub Stats] (https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Saptarshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 
 - 🔭 I’m currently working on production RAG systems, LLM evaluation frameworks, Agentic AI
